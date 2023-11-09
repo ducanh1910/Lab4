@@ -1,0 +1,30 @@
+.modal-show {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100vw;
+  height: 100vmax;
+  z-index: 99;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+footer{
+ 
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #c2b506;
+   color: white;
+   text-align: center;
+   padding: 10px;
+}
+.menu{
+  background-color: #01579b ;
+}
+.agree{
+  display: block;
+}
+.brand-logo{
+ padding-left: 10px !important; 
+}
